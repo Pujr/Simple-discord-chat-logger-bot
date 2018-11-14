@@ -3,7 +3,7 @@ from discord.ext import commands
 
 #Insert your own discord bot token.
 
-TOKEN = "NTEyMTYzMjUyNzcyNTM2MzQy.Ds1lAw.48sz8evPWz-uDWsPrqcJmursl7M"
+TOKEN = ""
 
 client = commands.Bot(command_prefix = "&")
 client.remove_command('help')
